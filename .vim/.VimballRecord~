@@ -1,0 +1,2 @@
+getscript.vba: call delete('/home/diego/.vim/plugin/getscriptPlugin.vim')|call delete('/home/diego/.vim/autoload/getscript.vim')|call delete('/home/diego/.vim/GetLatest/GetLatestVimScripts.dist')|call delete('/home/diego/.vim/doc/pi_getscript.txt')
+histwin-0.21.vba: call delete('/home/diego/.vim/plugin/histwinPlugin.vim')|call delete('/home/diego/.vim/autoload/histwin.vim')|call delete('/home/diego/.vim/doc/histwin.txt')
